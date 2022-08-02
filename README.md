@@ -1,5 +1,2 @@
 # gitlearning
-For learning Git before production
-
-
-Test from mey02
+Some nice things to do with Git
