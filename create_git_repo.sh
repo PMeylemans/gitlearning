@@ -8,9 +8,9 @@
 # Initialise some variables
 # ------------------------
 
-GITNAME="Learning_01"
-EMAIL="Patrick@Meylemans.net"
-NAME="Patrick Meylemans"
+GITNAME="Learning_03"
+EMAIL="patrick@meylemans.net"
+NAME="PMeylemans"
 
 # Init git and set config parameters
 # ----------------------------------
