@@ -9,8 +9,8 @@
 # ------------------------
 
 GITNAME="Learning_01"
-EMAIL="Patrick@Meylemans.net"
-NAME="Patrick Meylemans"
+EMAIL="name@doamin.ext"
+NAME="Firstname Name"
 
 # Init git and set config parameters
 # ----------------------------------
